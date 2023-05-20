@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Amit Krishnaiyer! Thanks for stopping by :)
+
+😄 Project Porfolio: https://amitkrishnaiyer.com/
+
+📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
 
 <!--
 **Amitten77/Amitten77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
