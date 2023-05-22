@@ -4,7 +4,9 @@
 
 📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitten77)](https://github.com/anuraghazra/github-readme-stats)
+#### Languages and Tools: 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,html,java,js,jenkins,linux,netlify,nodejs,py,pytorch,react,selenium,solidity&theme=light)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitten77&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
