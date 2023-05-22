@@ -1,15 +1,23 @@
 ### Hi there 👋 I'm Amit Krishnaiyer! Thanks for stopping by :)
 
+
+
 😄 Project Porfolio: https://amitkrishnaiyer.com/
 
 📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
+
+
 
 #### Languages and Tools: 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,html,java,js,jenkins,linux,netlify,nodejs,py,pytorch,react,selenium,solidity&theme=light)](https://skillicons.dev)
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitten77&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Amitten77)](https://git.io/streak-stats)
