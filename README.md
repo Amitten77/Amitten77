@@ -1,16 +1,13 @@
 ### Hi there 👋 I'm Amit Krishnaiyer! Thanks for stopping by :)
 
-
-
 😄 Project Porfolio: https://amitkrishnaiyer.com/
 
 📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
 
 
-
 #### Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,html,java,js,jenkins,linux,netlify,nodejs,py,pytorch,react,selenium,solidity&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,html,java,js,jenkins,linux,netlify,nodejs,py,pytorch,react,selenium,solidity,swift,tensorflow,ts,&theme=light)](https://skillicons.dev)
 
 
 
