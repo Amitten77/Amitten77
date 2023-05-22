@@ -4,6 +4,8 @@
 
 📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitten77)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Amitten77/Amitten77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
