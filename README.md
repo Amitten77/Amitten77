@@ -4,6 +4,8 @@
 
 📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
 
+🤝 Connect with me: https://www.linkedin.com/in/amit-krishnaiyer-9074901b5/
+
 
 #### Languages and Tools: 
 
