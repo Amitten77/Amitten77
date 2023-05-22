@@ -22,6 +22,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Amitten77)](https://git.io/streak-stats)
 
 
+![Visitor Count](https://profile-counter.glitch.me/Amitten77/count.svg)
+
+
 
 <!--
 **Amitten77/Amitten77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
