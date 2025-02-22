@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Amit Krishnaiyer! Thanks for stopping by :)
 
-😄 Project Porfolio: https://amitkrishnaiyer.com/
-
-📫 Contact Me (I'm very open to colloboration): amit.krishnaiyer@gmail.com
+📫 Contact Me : amit.krishnaiyer@gmail.com
 
 🤝 Connect with me: https://www.linkedin.com/in/amit-krishnaiyer-9074901b5/
 
